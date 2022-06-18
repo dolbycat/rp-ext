@@ -16,9 +16,7 @@
     }
   ],
 
-  "kmods": {
-    "usbcore.ko": "",
-    "mii.ko": "",
+  "kmods": {    
     "r8152.ko":""
   },
 
