@@ -1,6 +1,6 @@
 {
   "id": "pocopico.igb",
-  "url": "https://raw.githubusercontent.com/dolbycat/rp-ext/main/igb/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/igb/rpext-index.json",
   "info": {
     "name": "igb",
     "description": "Adds Intel(R) Gigabit Ethernet Network Driver Support",
@@ -20,9 +20,9 @@
     "ds3622xsp_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/ds3622xsp_42218.json",
     "ds3622xsp_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/ds3622xsp_42218.json",
     "ds3622xsp_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/ds3622xsp_42218.json",
-    "ds1621p_42218": "https://raw.githubusercontent.com/dolbycat/rp-ext/main/igb/releases/ds1621p_42218.json",
+    "ds1621p_42218": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/igb/releases/ds1621p_42218.json",
     "ds1621p_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/ds1621p_42218.json",
-    "ds1621p_42661": "https://raw.githubusercontent.com/dolbycat/rp-ext/main/igb/releases/ds1621p_42218.json",
+    "ds1621p_42661": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/igb/releases/ds1621p_42218.json",
     "dva3221_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/dva3221_42218.json",
     "dva3221_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/dva3221_42218.json",
     "dva3221_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/dva3221_42218.json",
