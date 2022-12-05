@@ -11,6 +11,8 @@
   "releases": {
     "ds920p_42218": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "ds920p_42962": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/redpill-dtb-static/recipes/universal.json",
+    "ds1520p_42218": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/redpill-dtb-static/recipes/universal.json",
+    "ds1520p_42962": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "ds1621p_42218": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "ds1621p_42962": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "ds2422p_42218": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/redpill-dtb-static/recipes/universal.json",
