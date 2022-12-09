@@ -3,7 +3,7 @@
 
   "files": [
     {
-      "name": "r8125-4.4.180plus-denverton.tgz",
+      "name": "r8125-4.4.180plus-v1000.tgz",
       "url": "https://github.com/dolbycat/rp-ext/raw/master/r8125/releases/r8125-4.4.180plus-v1000.tgz",
       "sha256": "8f10e5b8e461acc8a634c8192b954aa7367370664abd0f9dc44646436738f33d",
       "packed": true
