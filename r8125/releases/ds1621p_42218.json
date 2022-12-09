@@ -4,8 +4,8 @@
   "files": [
     {
       "name": "r8125-4.4.180plus-denverton.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8125/releases/r8125-4.4.180plus-denverton.tgz",
-      "sha256": "984b7d27b31773204b7209ddc7f0dfac02e39be5c491aa87d0e0c4de98c8ecbd",
+      "url": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/r8125/releases/r8125-4.4.180plus-denverton.tgz",
+      "sha256": "8f10e5b8e461acc8a634c8192b954aa7367370664abd0f9dc44646436738f33d",
       "packed": true
     },
     {
