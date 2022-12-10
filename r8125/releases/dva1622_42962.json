@@ -4,7 +4,7 @@
   "files": [
     {
       "name": "r8125-4.4.180plus-geminilake.tgz",
-      "url": "https://raw.githubusercontent.com/dolbycat/rp-ext/master/r8125/releases/r8125-4.4.180plus-denverton.tgz",
+      "url": "https://github.com/dolbycat/rp-ext/raw/master/r8125/releases/r8125-4.4.180plus-geminilake.tgz",
       "sha256": "984b7d27b31773204b7209ddc7f0dfac02e39be5c491aa87d0e0c4de98c8ecbd",
       "packed": true
     },
